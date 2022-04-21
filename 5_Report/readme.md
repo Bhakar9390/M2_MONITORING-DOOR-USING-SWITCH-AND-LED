@@ -33,7 +33,7 @@ In this project we will control the door using switch.if the door opens the led 
   ![Schematic Diagram](https://user-images.githubusercontent.com/102800244/164473986-dac3c673-9641-4390-a9aa-f539fc35cbaa.jpg)
   
  # WHO:
-   A DOOR SENSOR IS THE APPLICATION USED TO DETECT THE PERSONS NEAR THE SENSOR
+   It is the application where we can control the door with the help of switch
  # WHAT:
    HIGH RELIABILITY
  # WHEN:
@@ -43,4 +43,9 @@ In this project we will control the door using switch.if the door opens the led 
  # HOW:
    EASY TO USE AND ADJUSTED IN A SHORT RANGE
    
+ # THREATS:
+    . FAILURE OF THE COMPONENTS.
+    . Voltmeter should be handled carefully 
    
+ # Result:
+ 
