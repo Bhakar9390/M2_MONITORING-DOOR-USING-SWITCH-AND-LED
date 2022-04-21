@@ -7,5 +7,5 @@
 # HARDWARE
   * Atmega328 microcontroller
   * Led
-  * Voltmeter#
+  * Voltmeter
   * switch
