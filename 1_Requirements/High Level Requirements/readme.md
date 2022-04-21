@@ -9,3 +9,4 @@
   * Led
   * Voltmeter
   * switch
+  * Proximity sensor
