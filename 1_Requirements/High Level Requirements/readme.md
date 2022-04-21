@@ -9,4 +9,3 @@
   * Led
   * Voltmeter
   * switch
-  * Proximity
