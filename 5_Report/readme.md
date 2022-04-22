@@ -24,9 +24,13 @@ In this project we will control the door using switch.if the door opens the led 
   
    ![flow chart](https://user-images.githubusercontent.com/102800244/164473790-45c66252-9f14-49f8-8b91-3b76d020c685.jpeg)
   
-  .Block Diagram
+  . Block Diagram
   
   ![Block Diagram](https://user-images.githubusercontent.com/102800244/164473933-368b02c4-1c76-4596-b4f8-e91a64a9e549.jpeg)
+  
+  . State Diagram
+  
+   ![State Transition](https://user-images.githubusercontent.com/102800244/164713086-8c27ae94-8ede-407c-adfd-5090f193d27e.png)
 
   . Schematic Diagram
   
